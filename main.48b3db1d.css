@@ -4587,6 +4587,10 @@ iframe {
   #header .col-60 {
     width: 100%;
   }
+
+  .img-movil {
+    display: none;
+  }
 }
 #html5 p {
   animation-duration: 3s;
